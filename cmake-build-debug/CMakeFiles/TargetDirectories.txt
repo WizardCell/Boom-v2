@@ -1,0 +1,3 @@
+F:/Documents/GitHub/WizardCell/MevniWet2/cmake-build-debug/CMakeFiles/MevniWet2.dir
+F:/Documents/GitHub/WizardCell/MevniWet2/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Documents/GitHub/WizardCell/MevniWet2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

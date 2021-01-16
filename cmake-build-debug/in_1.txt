@@ -1,0 +1,10 @@
+Init
+AddCourse 1
+AddCourse 11
+AddCourse 2
+AddCourse 22
+AddCourse 3
+AddCourse 23
+AddCourse 33
+AddCourse 43
+Quit
